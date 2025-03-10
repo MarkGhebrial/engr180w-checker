@@ -30,4 +30,10 @@ export const WORD_BAN_LIST: { [key: string]: string } = {
   "without the need to access": "CCG: replace with without accessing",
   "would be": "CCG: replace with are / is",
   "would like": "CCG: replace with want",
+  skibidi: "💀",
+  rizz: "💀",
+  sigma: "💀",
+  ohio: "💀",
+  "fanum tax": "💀",
+  gyatt: "💀"
 };
